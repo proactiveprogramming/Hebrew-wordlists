@@ -3,7 +3,8 @@
 ## Version History
 
 ### Version 1.0-dev
-  Author: Melissa Janine Newman (Proactive Programming), 2022-Dec-13
+
+    Author: Melissa Janine Newman (Proactive Programming), 2022-Dec-13
   
 Various Hebrew related wordlists.  Some of these lists still need to be cleaned up.
 
